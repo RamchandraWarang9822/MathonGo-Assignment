@@ -26,6 +26,8 @@ npm install
 
 ## Usage
 
+**Before executing the script, create a Task.txt file in the project directory with the text to be parsed.**
+
 To execute the Node.js script:
 
 ```bash
